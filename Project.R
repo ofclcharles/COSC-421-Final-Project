@@ -1,4 +1,4 @@
-setwd("C:/Users/jaidy/Desktop/W2024/W2024 - S1/COSC 421/Project")
+setwd("C:/Users/jaidy/COSC421/COSC-421-Final-Project") #change this to whatever directory the csv file is in
 
 library(dplyr)
 library(tidyr)
