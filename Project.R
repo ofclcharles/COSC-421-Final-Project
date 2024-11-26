@@ -1,4 +1,5 @@
-setwd("C:/Users/jaidy/COSC421/COSC-421-Final-Project") #change this to whatever directory the csv file is in
+#setwd("C:/Users/jaidy/COSC421/COSC-421-Final-Project") #change this to whatever directory the csv file is in
+setwd("C:/Users/charl/Documents/UBC-O Course Work/COSC 421/PROJECT/Github/COSC-421-Final-Project")
 
 library(dplyr)
 library(tidyr)
